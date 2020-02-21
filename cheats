@@ -1,0 +1,1 @@
+gconftool-2 --dump / > gconf_dump.xml

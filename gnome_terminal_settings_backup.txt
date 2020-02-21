@@ -1,0 +1,293 @@
+[legacy]
+new-terminal-mode='tab'
+theme-variant='dark'
+
+[legacy/keybindings]
+next-tab='WakeUp'
+
+[legacy/profiles:]
+default='12452143-a056-47ce-830b-d52832e87ba4'
+list=['12452143-a056-47ce-830b-d52832e87ba4', '75955bbf-002b-4610-b532-981db3e26fab', '8bf6dfb6-d579-4414-908b-dbcb42dedb2d', '9ce0c56f-066c-46d6-bee3-44a7ba64cb8e', '3f5a80b1-b45f-4766-af8b-e243dcb6f4f9', '2f1607b5-d923-41a3-b539-f29fb85d718f', '0c4eb557-c389-4c3d-92ef-9e5a700cd511', 'e689d38a-1dab-48e0-b1a0-88cee38189a9', '41d3b7e7-58af-4968-8962-bd34a80b4f3d', '751c6943-9940-48b2-a33c-b5d630e2f3ef', '0901f952-aa8f-4a93-af21-ca7a0e6f0686', '3627c53b-1922-47aa-baba-7eb6a0260da6', '9cf5e0f3-c844-4a67-8870-5db644ce32b8', '831772d3-6ac4-42b4-acd3-b6038aaca4af', '7b25635f-0f17-4748-a925-ed96c2572bbb', 'e806686a-340e-42e6-b707-2bf8886ccf79', '6f0191d0-53d3-4880-8ce3-d8e9ee514bf1']
+
+[legacy/profiles:/:0901f952-aa8f-4a93-af21-ca7a0e6f0686]
+allow-bold=true
+background-color='rgb(35,40,55)'
+bold-color='#d9d9e6e6f2f2'
+bold-color-same-as-fg=true
+font='Droid Sans Mono 11'
+foreground-color='#d9d9e6e6f2f2'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#0a0a0a0a0a0a', '#abab8f8f7474', '#7474abab8f8f', '#8f8fabab7474', '#8f8f7474abab', '#abab74748f8f', '#74748f8fabab', '#F2F2F2F2F2F2', '#5D5D5D5D5D5D', '#FFFF1D1D6262', '#9c9cc3c3afaf', '#FFFFD0D00A0A', '#afaf9c9cc3c3', '#FFFF1D1D6262', '#4B4BB8B8FDFD', '#A0A02020F0F0']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='_Pali'
+
+[legacy/profiles:/:0c4eb557-c389-4c3d-92ef-9e5a700cd511]
+allow-bold=true
+background-color='#1b1b1d1d1e1e'
+bold-color='#BBBBBBBBBBBB'
+bold-color-same-as-fg=true
+foreground-color='#BBBBBBBBBBBB'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#1b1b1d1d1e1e', '#73732525FAFA', '#2323E2E29898', '#6060D4D4DFDF', '#D0D080801010', '#FFFF00008787', '#D0D0A8A84343', '#BBBBBBBBBBBB', '#555555555555', '#9D9D6666F6F6', '#5F5FE0E0B1B1', '#6D6DF2F2FFFF', '#FFFFAFAF0000', '#FFFF8787AFAF', '#FFFFCECE5151', '#FFFFFFFFFFFF']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Molokai'
+
+[legacy/profiles:/:12452143-a056-47ce-830b-d52832e87ba4]
+allow-bold=true
+audible-bell=false
+background-color='rgb(0,0,0)'
+background-transparency-percent=15
+bold-color='#dededadacfcf'
+bold-color-same-as-fg=true
+font='Source Code Pro Medium 11'
+foreground-color='rgb(160,160,160)'
+highlight-background-color='#'
+highlight-colors-set=false
+highlight-foreground-color='rgb(255,83,0)'
+palette=['rgb(0,0,0)', 'rgb(255,90,120)', 'rgb(105,225,233)', 'rgb(228,118,36)', 'rgb(93,246,110)', 'rgb(184,106,255)', 'rgb(130,255,247)', 'rgb(255,217,0)', 'rgb(49,49,49)', 'rgb(245,128,156)', 'rgb(143,248,246)', 'rgb(238,150,61)', 'rgb(174,255,165)', 'rgb(197,174,213)', 'rgb(183,255,249)', 'rgb(255,0,0)']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Wombat'
+
+[legacy/profiles:/:2f1607b5-d923-41a3-b539-f29fb85d718f]
+allow-bold=true
+background-color='#1E1E28282C2C'
+bold-color='#C3C3C7C7D1D1'
+bold-color-same-as-fg=true
+foreground-color='#C3C3C7C7D1D1'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#070736364141', '#EBEB60606B6B', '#C3C3E8E88D8D', '#F7F7EBEB9595', '#8080CBCBC3C3', '#FFFF24249090', '#AEAEDDDDFFFF', '#FFFFFFFFFFFF', '#00002B2B3636', '#EBEB60606B6B', '#C3C3E8E88D8D', '#F7F7EBEB9595', '#7D7DC6C6BFBF', '#6C6C7171C3C3', '#343443434D4D', '#FFFFFFFFFFFF']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Material'
+
+[legacy/profiles:/:3627c53b-1922-47aa-baba-7eb6a0260da6]
+allow-bold=true
+background-color='#212121212121'
+bold-color='#f1f1f1f1f1f1'
+bold-color-same-as-fg=true
+foreground-color='#f1f1f1f1f1f1'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#212121212121', '#c3c307077171', '#1010a7a77878', '#a8a89c9c1414', '#00008e8ec4c4', '#52523c3c7979', '#2020a5a5baba', '#d9d9d9d9d9d9', '#424242424242', '#fbfb00007a7a', '#5f5fd7d7afaf', '#f3f3e4e43030', '#2020bbbbfcfc', '#68685555dede', '#4f4fb8b8cccc', '#f1f1f1f1f1f1']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Pencil Dark'
+
+[legacy/profiles:/:3f5a80b1-b45f-4766-af8b-e243dcb6f4f9]
+allow-bold=true
+background-color='#121212121212'
+bold-color='#dededededede'
+bold-color-same-as-fg=true
+foreground-color='#dededededede'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#929292929292', '#e2e273737373', '#9494b9b97979', '#ffffbaba7b7b', '#9797bebedcdc', '#e1e1c0c0fafa', '#000098988e8e', '#dededededede', '#bdbdbdbdbdbd', '#ffffa1a1a1a1', '#bdbddedeabab', '#ffffdcdca0a0', '#b1b1d8d8f6f6', '#fbfbdadaffff', '#1a1ab2b2a8a8', '#ffffffffffff']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Jellybeans'
+
+[legacy/profiles:/:41d3b7e7-58af-4968-8962-bd34a80b4f3d]
+allow-bold=true
+background-color='#1a1a1a1a1a1a'
+bold-color='#c4c4c5c5b5b5'
+bold-color-same-as-fg=true
+foreground-color='#c4c4c5c5b5b5'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#1a1a1a1a1a1a', '#f4f400005f5f', '#9898e0e02424', '#fafa84841919', '#9d9d6565ffff', '#f4f400005f5f', '#5858d1d1ebeb', '#c4c4c5c5b5b5', '#62625e5e4c4c', '#f4f400005f5f', '#9898e0e02424', '#e0e0d5d56161', '#9d9d6565ffff', '#f4f400005f5f', '#5858d1d1ebeb', '#f6f6f6f6efef']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Monokai Soda'
+
+[legacy/profiles:/:6f0191d0-53d3-4880-8ce3-d8e9ee514bf1]
+allow-bold=true
+background-color='#090911111616'
+bold-color='#86868A8A8C8C'
+bold-color-same-as-fg=true
+foreground-color='#86868A8A8C8C'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#28282a2a2e2e', '#a5a542424242', '#a1a1b5b56c6c', '#dede93935f5f', '#222255555555', '#858567678f8f', '#5e5e8d8d8787', '#777777777777', '#37373b3b4141', '#c6c635353535', '#606083836060', '#fafa80805a5a', '#44449d9da1a1', '#baba8b8bafaf', '#8686c1c1b9b9', '#c5c5c8c8c6c6']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Terminix Dark'
+
+[legacy/profiles:/:751c6943-9940-48b2-a33c-b5d630e2f3ef]
+allow-bold=true
+background-color='#1E1E21212727'
+bold-color='#5C5C63637070'
+bold-color-same-as-fg=true
+foreground-color='#5C5C63637070'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#000000000000', '#E0E06C6C7575', '#9898C3C37979', '#D1D19A9A6666', '#6161AFAFEFEF', '#C6C67878DDDD', '#5656B6B6C2C2', '#ABABB2B2BFBF', '#5C5C63637070', '#E0E06C6C7575', '#9898C3C37979', '#D1D19A9A6666', '#6161AFAFEFEF', '#C6C67878DDDD', '#5656B6B6C2C2', '#FFFFFEFEFEFE']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='One Dark'
+
+[legacy/profiles:/:75955bbf-002b-4610-b532-981db3e26fab]
+allow-bold=true
+background-color='#0d0d19192626'
+bold-color='#b4b4e1e1fdfd'
+bold-color-same-as-fg=true
+font='Droid Sans Mono 12'
+foreground-color='#b4b4e1e1fdfd'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#363636363636', '#ffff08088383', '#8383ffff0808', '#ffff83830808', '#08088383ffff', '#83830808ffff', '#0808ffff8383', '#b6b6b6b6b6b6', '#424242424242', '#ffff1e1e8e8e', '#8e8effff1e1e', '#ffff8e8e1e1e', '#1e1e8e8effff', '#8e8e1e1effff', '#1e1effff8e8e', '#c2c2c2c2c2c2']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Aci'
+
+[legacy/profiles:/:7b25635f-0f17-4748-a925-ed96c2572bbb]
+allow-bold=true
+background-color='#222222222222'
+bold-color='#bdbdbabaaeae'
+bold-color-same-as-fg=true
+foreground-color='#bdbdbabaaeae'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#151517171c1c', '#ecec5f5f6767', '#8181a7a76464', '#fefec2c25454', '#54548686c0c0', '#bfbf8383c1c1', '#5757c2c2c1c1', '#efefecece7e7', '#555555555555', '#ffff69697373', '#9393d4d49393', '#ffffd2d25656', '#4d4d8484d1d1', '#ffff5555ffff', '#8383e9e9e4e4', '#ffffffffffff']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='SpaceGray Eighties'
+
+[legacy/profiles:/:831772d3-6ac4-42b4-acd3-b6038aaca4af]
+allow-bold=true
+background-color='#222222222222'
+bold-color='#c9c9c6c6bcbc'
+bold-color-same-as-fg=true
+foreground-color='#c9c9c6c6bcbc'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#151517171c1c', '#b2b24a4a5656', '#9292b4b47777', '#c6c673735a5a', '#7c7c8f8fa5a5', '#a5a578789e9e', '#8080cdcdcbcb', '#b3b3b8b8c3c3', '#555555555555', '#ecec5f5f6767', '#8989e9e98686', '#fefec2c25454', '#54548686c0c0', '#bfbf8383c1c1', '#5858c2c2c1c1', '#ffffffffffff']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='SpaceGray Eighties Dull'
+
+[legacy/profiles:/:8bf6dfb6-d579-4414-908b-dbcb42dedb2d]
+allow-bold=true
+background-color='#1f1f13130505'
+bold-color='#b4b4e1e1fdfd'
+bold-color-same-as-fg=true
+foreground-color='#b4b4e1e1fdfd'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#3f3f3f3f3f3f', '#ffff08088383', '#8383ffff0808', '#ffff83830808', '#08088383ffff', '#83830808ffff', '#0808ffff8383', '#bebebebebebe', '#474747474747', '#ffff1e1e8e8e', '#8e8effff1e1e', '#ffff8e8e1e1e', '#1e1e8e8effff', '#8e8e1e1effff', '#1e1effff8e8e', '#c4c4c4c4c4c4']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Aco'
+
+[legacy/profiles:/:9ce0c56f-066c-46d6-bee3-44a7ba64cb8e]
+allow-bold=true
+background-color='#282828282828'
+bold-color='#ebebdbdbb2b2'
+bold-color-same-as-fg=true
+foreground-color='#ebebdbdbb2b2'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#282828282828', '#cccc24241d1d', '#989897971a1a', '#d7d799992121', '#454585858888', '#b1b162628686', '#68689d9d6a6a', '#a8a899998484', '#929283837474', '#fbfb49493434', '#b8b8bbbb2626', '#fafabdbd2f2f', '#8383a5a59898', '#d3d386869b9b', '#8e8ec0c07c7c', '#ebebdbdbb2b2']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='_Gruvbox Dark'
+
+[legacy/profiles:/:9cf5e0f3-c844-4a67-8870-5db644ce32b8]
+allow-bold=true
+background-color='#0a0a1e1e2424'
+bold-color='#ececf0f0c1c1'
+bold-color-same-as-fg=true
+foreground-color='#ececf0f0c1c1'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#6e6e53534646', '#e3e35b5b0000', '#5c5cabab9696', '#e3e3cdcd7b7b', '#0f0f54548b8b', '#e3e35b5b0000', '#0606afafc7c7', '#f0f0f1f1cece', '#68684c4c3131', '#ffff8a8a3a3a', '#aeaecacab8b8', '#ffffc8c87878', '#6767a0a0cece', '#ffff8a8a3a3a', '#8383a7a7b4b4', '#fefefffff1f1']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Spacedust'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(0,0,0)'
+bold-color='rgb(0,255,152)'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cell-height-scale=1.0
+cell-width-scale=1.0
+cursor-background-color='rgb(255,0,93)'
+cursor-colors-set=true
+cursor-foreground-color='rgb(0,255,152)'
+font='Droid Sans Mono 11'
+foreground-color='rgb(170,170,170)'
+highlight-colors-set=false
+palette=['rgb(46,52,54)', 'rgb(204,0,0)', 'rgb(78,154,6)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(138,226,52)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+
+[legacy/profiles:/:e689d38a-1dab-48e0-b1a0-88cee38189a9]
+allow-bold=true
+background-color='#272728282222'
+bold-color='#f8f8f8f8f2f2'
+bold-color-same-as-fg=true
+foreground-color='#f8f8f8f8f2f2'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#757571715e5e', '#f9f926267272', '#a6a6e2e22e2e', '#f4f4bfbf7575', '#6666d9d9efef', '#aeae8181ffff', '#2A2AA1A19898', '#f9f9f8f8f5f5', '#272728282222', '#f9f926267272', '#a6a6e2e22e2e', '#f4f4bfbf7575', '#6666d9d9efef', '#aeae8181ffff', '#2A2AA1A19898', '#f8f8f8f8f2f2']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Monokai Dark'
+
+[legacy/profiles:/:e806686a-340e-42e6-b707-2bf8886ccf79]
+allow-bold=true
+background-color='#202024242d2d'
+bold-color='#b3b3b8b8c3c3'
+bold-color-same-as-fg=true
+foreground-color='#b3b3b8b8c3c3'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['#000000000000', '#b0b04b4b5757', '#8787b3b37979', '#e5e5c1c17979', '#7d7d8f8fa4a4', '#a4a479799696', '#8585a7a7a5a5', '#b3b3b8b8c3c3', '#000000000000', '#b0b04b4b5757', '#8787b3b37979', '#e5e5c1c17979', '#7d7d8f8fa4a4', '#a4a479799696', '#8585a7a7a5a5', '#ffffffffffff']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='SpaceGray'
