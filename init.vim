@@ -119,6 +119,10 @@ Plug 'dense-analysis/ale'
 Plug 'jaspervdj/stylish-haskell'
 Plug 'calebsmith/vim-lambdify'
 
+" Rust
+Plug 'rust-lang/rust.vim'
+let g:rustfmt_autosave = 1
+
 call plug#end()
 
 " Basic display settings
@@ -127,16 +131,20 @@ syntax on
 set relativenumber
 set number
 color molokai
+" My terminal has a transparent black background, and I
+" don't want vim to draw over that.
+hi Normal guibg=NONE ctermbg=None
 
 " Create a column at 80 characters.
 set colorcolumn=80
 highlight ColorColumn ctermbg=Black
-highlight ColorColumn guibg=#222222
+highlight ColorColumn guibg=#081818
 
 " More natural split direction.
 set splitbelow
 set splitright
 
+" Go
 augroup GoFiles
 	au!
 	autocmd BufReadPost,BufNewFile *.go set tabstop=4
@@ -150,11 +158,13 @@ set tabstop=4
 set expandtab
 set shiftwidth=4
 set softtabstop=4
-"set foldmethod=syntax
+set foldmethod=syntax
 
 " set formatting for comments
 set formatprg=par\ -w60f
-" autocmd BufEnter *.hs set formatprg=pointfree
+"autocmd BufEnter *.hs set formatprg=pointfree
+autocmd BufNewFile,BufRead *.x set syn=haskell
+autocmd BufNewFile,BufRead *.y set syn=haskell
 
 au BufNewFile,BufRead *.py let g:python_highlight_all = 1
 
@@ -176,6 +186,9 @@ nnoremap <C-l> <C-w>l
 nnoremap <leader>rc :split  ~/.config/nvim/init.vim<cr>
 nnoremap <leader>RC :vsplit ~/.config/nvim/init.vim<cr>
 
+" Faster file nav opening.
+nnoremap <leader>N :NERDTree<cr>
+
 " Ctrl+A interferes with tmux.
 nnoremap <Leader><C-x> <C-a>
 
@@ -190,3 +203,28 @@ iab import\ import impot
 iab ednl endl
 
 syntax match mul "*" conceal cchar=×
+
+"augroup BufNewFile,BufRead *.plx 
+"    au!
+"    iab -> →
+"    iab != ≠
+"    iab // ÷
+"    iab \\ √ 
+"    iab <= ≤ 
+"    iab >= ≥ 
+"    iab ~~ !
+"	iab TRUE ⊤
+"    iab FALSE ⊥
+"	iab SUM ∑
+"	iab PRODUCT ∏
+"	iab AND ⋀
+"	iab OR ⋁
+"	iab UNION ⋃
+"	iab INTERX ⋂
+"	iab IN ∈
+"	iab \N ℕ
+"	iab \Z ℤ
+"    iab \Q ℚ
+"    iab \R ℝ
+"	iab \~ ¬
+"augroup END
